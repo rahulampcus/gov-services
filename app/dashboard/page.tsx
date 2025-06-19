@@ -147,7 +147,7 @@ const services = [
     color: "bg-lime-500",
     status: "Available",
     notifications: 1,
-    url: "/dashboard",
+    url: "/services/property-tax/assessment",
   },
   {
     title: "Corporation Services",
