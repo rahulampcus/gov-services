@@ -156,7 +156,7 @@ const services = [
     color: "bg-violet-500",
     status: "Available",
     notifications: 0,
-    url: "/dashboard",
+    url: "/services/corporation/business-registration",
   },
   {
     title: "Electricity Services",
